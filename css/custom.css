@@ -979,8 +979,6 @@ img.desaturate:hover {
 	}
 
 
-
-
 		i {
 
 			font-size: 1.5em;
@@ -992,9 +990,9 @@ img.desaturate:hover {
 			font-size: 2em;
 		}
 
-
-
 			#filters { display: none; }
+
+	#project { padding-left: 10%; padding-right: 10%; }
 
 
 
